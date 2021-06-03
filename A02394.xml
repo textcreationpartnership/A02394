@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The description and vse of his Maiesties dials in VVhite-Hall Garden</title>
+            <author>Gunter, Edmund, 1581-1626.</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A02394</idno><idno type="EEBO-CITATION">99839314</idno>
+  <idno type="VID">3722</idno>
+  <idno type="EEBO-PROQUEST">2240873180</idno>
+  <idno type="STC">STC 12524</idno>
+  <idno type="STC">ESTC S103563</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839314e"/>
+            <note>(EEBO-TCP ; phase 2, no. A02394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3722)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1069:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The description and vse of his Maiesties dials in VVhite-Hall Garden</title>
+                  <author>Gunter, Edmund, 1581-1626.</author>
+               </titleStmt>
+               <extent>[4], 59, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bonham Norton and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXXIV. [1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Edm. Gunter.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sundials --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3722:1"/>
+            <pb facs="tcp:3722:1"/>
+            <p>THE DESCRIPTION AND VSE OF HIS MAIESTIES DIALS IN WHITE-HALL GARDEN.</p>
+            <p>LONDON, Printed by BONHAM NORTON and IOHN BILL, Printers to the Kings <hi>most Excellent Maiestie.</hi> MDCXXIV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:3722:2"/>
+            <pb facs="tcp:3722:2"/>
+            <head>TO HIS SACRED MAIESTIE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was the motion of many Honorable Personages, and the speciall direction of the Prince his Highnesse, that J should write <hi>the Description and Vse</hi> of such Lines, as I had drawen on Your <hi>MAIESTIES</hi> Dials in <hi>White-Hall</hi> Garden.</p>
+            <p>J haue endeauoured to giue satis<g ref="char:EOLhyphen"/>faction vnto all: To Your Maiestie, and his Highnesse, by the manuscript which J deliuered; And that, be<g ref="char:EOLhyphen"/>ing here Printed by order from Your Maiestie, may be satisfaction for them also, which haue accesse into the
+<pb facs="tcp:3722:3"/> Garden. For others (studious of <hi>Mathematicall</hi> Practise) J haue Painted the <hi>Generall Description</hi> of these and such like Lines, on all sorts of Planes; together with some Vses of <hi>Astronomie</hi> in Nauiga<g ref="char:EOLhyphen"/>tion.</p>
+            <p>J humbly entreat Your Maiestie to accept these poore fruits of my younger Studies, when J was Your Maiesties Scholler in <hi>Westminster</hi> and <hi>Christchurch:</hi> and I shall be ready to doe all seruice in this kinde, or better in the Church, as Your Ma<g ref="char:EOLhyphen"/>iesty shall be pleased to thinke me wor<g ref="char:EOLhyphen"/>thy, in the name of</p>
+            <closer>
+               <signed>
+                  <hi>Your MAIESTIES most thankefull Scholler, and obedient Subiect,</hi> Edm. Gunter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:3722:3"/>
+            <head>THE DESCRIPTION and vse of his MAIESTIES <hi>Dials in Whitehall Garden.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He stone whereon the Dials are described, is of the same length, bredth, and depth, with that which stood in the same place before. That, was of <hi>Cane</hi> stone, and of many pieces: this, all of one in<g ref="char:EOLhyphen"/>tire stone from <hi>Purbecke</hi> Quarrie. The base of it is a square of somewhat more then foure foote and a halfe, the height three foote and ¾: and so vnwrought
+<pb n="2" facs="tcp:3722:4"/> contained about 80. feete, or fiue Tonne of Stone.</p>
+            <p>It is also wrought with the like <hi>Plaines</hi> and <hi>Concaues</hi> as the former; and so necessarily, the like lines to shewe the houre of the day. But the rest of the lines are much different, and most of them such as were not in the former Dials, and therefore I intend here to giue an account of them.</p>
+            <p>These Dials may bee distinguished according as they are described: either on the vpper part of the Stone; or on the sides, toward the <hi>East, West, North, South.</hi>
+            </p>
+            <p>There be fiue Dialls described on the vpper part: foure on the foure Cor<g ref="char:EOLhyphen"/>ners; and one in the middle, which is the chiefest of all, the great <hi>Horizontall Concaue.</hi>
+            </p>
+            <div type="part">
+               <pb n="3" facs="tcp:3722:4"/>
+               <head>The vse of the Circles on the Margent of the great <hi>Ho<g ref="char:EOLhyphen"/>rizontall Concaue.</hi>
+               </head>
+               <p>THe <hi>Margent</hi> of this <hi>Horizontall Con<g ref="char:EOLhyphen"/>caue</hi> containeth foure Circles: whereof, the <hi>Vttermost</hi> is the <hi>Circle of the xij Moneths,</hi> conteining the seuerall dayes, the <hi>Dominicall letters,</hi> and the <hi>stan<g ref="char:EOLhyphen"/>ding Festiualls:</hi> The <hi>Holy dayes,</hi> in <hi>Redde;</hi> The <hi>Garter</hi> dayes in <hi>Blue,</hi> and the com<g ref="char:EOLhyphen"/>mon <hi>Saints dayes</hi> in <hi>Blacke.</hi> The vse of them may be;</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To find the day of the Moneth belonging to the Festiuall.</head>
+                  <p>THe <hi>Festiuall</hi> dayes are here set at the day of the <hi>Moneth,</hi> wherein they fall: As, the Feast of S. <hi>George,</hi> at the xxiij of <hi>Aprill;</hi> the Feast of S. <hi>Iames</hi> at the xxv of <hi>Iuly;</hi> and so the rest of the <hi>standing Festi<g ref="char:EOLhyphen"/>uals. Easter, Whitsontide,</hi> and such
+<pb n="4" facs="tcp:3722:5"/> like, could not bee set downe, because they are moueable.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> To finde the day of the Weeke belonging to the Festiuall.</head>
+                  <p>FIrst, consider some one day, which you know to fall on such a day of the weeke: that one may helpe you to find all the rest. As, knowing, that this yeere MDCXXIV. S. <hi>Georges</hi> day fell on the <hi>Friday;</hi> if you looke into this Circle, you shall finde it ouer against the letter <hi>A:</hi> then is <hi>A.</hi> the letter for <hi>Friday; B.</hi> for <hi>Saturday,</hi> and <hi>C.</hi> the <hi>Dominicall letter</hi> for this yeere: and so, the rest in their order. If now you would knowe, what day of the <hi>Weeke Christmas</hi> day falleth; looke into the moneth of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> and there you shall find it ouer against the letter <hi>B:</hi> which sheweth, that <hi>Christmas</hi> day, this yeere, falleth on <hi>Saturday.</hi>
+                  </p>
+                  <p>The second Circle is of the twelue
+<pb n="5" facs="tcp:3722:5"/>
+                     <hi>Signes:</hi> ♈ <hi>Aries:</hi> ♉ <hi>Taurus:</hi> ♊ <hi>Gemini:</hi> ♋ <hi>Cancer:</hi> ♌ <hi>Leo:</hi> ♍ <hi>Virgo:</hi> ♎ <hi>Libra:</hi> ♏ <hi>Scorpio:</hi> ♐ <hi>Sagittarius:</hi> ♑ <hi>Capricornus:</hi> ♒ <hi>Aquarius:</hi> ♓ <hi>Pisces:</hi> Each <hi>Signe</hi> be<g ref="char:EOLhyphen"/>ing distinguished with his name and character, and diuided into 30. degrees. The vse of it may be,</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Day of the Moneth being knowen, to finde the Place of the Sunne.</head>
+               <p>THe day of the <hi>Moneth,</hi> and the <hi>Place of the Sunne,</hi> are here set, one against the other: So may you find, that on the xxiij. of <hi>April,</hi> being S. <hi>Georges</hi> day, the <hi>Sunne</hi> is in 13. Deg. of ♉. On the xxv. of <hi>Iuly,</hi> being S. <hi>Iames</hi> his day, the <hi>Sunne</hi> is in 11. Degrees, 50. Minutes of <hi>Leo.</hi>
+               </p>
+               <p>There may be some small difference in time to come, in regard of the Leape yeere, as, of a quarter of a Degree, more or lesse; but, that could not be auoided. And this may serue for sixe score yeeres
+<pb n="6" facs="tcp:3722:6"/> without one Degrees difference.</p>
+               <p>The third <hi>Circle,</hi> is a standing <hi>Com<g ref="char:EOLhyphen"/>passe,</hi> diuided into thirty two points, with the name of each point in his due place: whereby you may see, vpon what point the <hi>Sunne</hi> beareth, and how the winde bloweth.</p>
+               <p>The fourth and innermost <hi>Circle</hi> con<g ref="char:EOLhyphen"/>taineth another description of the <hi>dayes</hi> of each moneth, fitted to the <hi>Concaue.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The description of the Concaue.</head>
+               <p>THe <hi>Concaue</hi> is twentie inches deepe, and fourtie inches ouer: and being halfe round resembleth that halfe of the heauens which may be seene.</p>
+               <p>The one part, which is drawen vp<g ref="char:EOLhyphen"/>on the <hi>white</hi> ground, resembleth so much of the heauens, as is contained betweene the <hi>Tropiques.</hi> As, there, the <hi>Sunne</hi> hath all varietie of motion; so, heere, the <hi>point</hi> of the <hi>Style,</hi> all variety of shadow. The other part, which is on
+<pb n="7" facs="tcp:3722:6"/> the <hi>Blue</hi> ground, is that part of the heauen, where the <hi>Sunne</hi> neuer com<g ref="char:EOLhyphen"/>meth.</p>
+               <p>The <hi>Style</hi> belonging to the <hi>Concaue,</hi> is xx inches long, and about xiij inches broad at the foot. The one edge which is vpright, is the <hi>Axis</hi> of the <hi>Horizon,</hi> and with his shadow sheweth the <hi>Azi<g ref="char:EOLhyphen"/>muth.</hi>
+               </p>
+               <p>The other edge, inclining to the <hi>North,</hi> represents the <hi>Axis</hi> of the world, and with his shadow shewes the time of the day. The point of the <hi>style,</hi> with his shadow, will shew the rest of the conclusions.</p>
+               <p>The edge of the <hi>Concaue</hi> representeth the circle of the <hi>Horizon.</hi> The other se<g ref="char:EOLhyphen"/>uerall Circles described in the <hi>Concaue,</hi> may be knowen and distinguished by their colours.</p>
+               <p>The <hi>Aequator,</hi> the <hi>Tropiques,</hi> and the <hi>Ecliptique,</hi> and the <hi>Parallels</hi> of <hi>Declination,</hi> are all drawen in <hi>Red</hi> lines.</p>
+               <p>The <hi>Parallels</hi> of the <hi>Horizon,</hi> to shew the <hi>Sunnes altitude,</hi> in <hi>Yellow.</hi>
+               </p>
+               <pb n="8" facs="tcp:3722:7"/>
+               <p>The <hi>Ʋerticall</hi> circles are drawen in <hi>Blew.</hi>
+               </p>
+               <p>The olde <hi>vnaequall</hi> (which some call <hi>Planetarie) houres,</hi> in <hi>Greene.</hi>
+               </p>
+               <p>The <hi>common</hi> houres, in <hi>Blacke.</hi>
+               </p>
+               <p>The <hi>dayes</hi> fitted to the <hi>Sunnes rising</hi> and <hi>setting,</hi> are drawen in the <hi>margent.</hi> And, so much is intimated in those eight Latine verses, which are written on the <hi>Concaue:</hi>
+                  <q>
+                     <l>Aequator, Tropici{que} <hi>&amp;</hi> Declinatio Solis,</l>
+                     <l>
+                        <hi>Et</hi> Via Solaris <hi>tramite ducta</hi> rubro.</l>
+                     <l>Lineolis flauis, Solis conscensus <hi>habetur;</hi>
+                     </l>
+                     <l>Caeruleo tractu, Verticis vmbra <hi>cadit.</hi>
+                     </l>
+                     <l>Hora Planetarum, Viridi <hi>est signata</hi> colore▪</l>
+                     <l>Hora{que} Vulgaris <hi>nota</hi> colore nigro.</l>
+                     <l>Ortus <hi>&amp;</hi> Occasus Solis, Spacium{que} diei,</l>
+                     <l>
+                        <hi>Atque</hi> Dies mensis, Margine <hi>scripta patent.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>The vse of the <hi>Blacke Lines.</hi>
+               </head>
+               <p>THat Line which is drawen from the South to the North, whereon the <hi>Style</hi> is set, is the <hi>Meridian</hi> circle. The rest drawen on either side of the <hi>Meri<g ref="char:EOLhyphen"/>dian,</hi> in <hi>White</hi> vpon the <hi>Blue;</hi> and in
+<pb n="9" facs="tcp:3722:7"/>
+                  <hi>Blacke</hi> vpon the <hi>White</hi> ground, are the <hi>Houre</hi> circles. Those which doe shew the <hi>houres</hi> complete, are drawen with broader lines. Each houre is diuided, first into fifteene parts with small lines, euery part being foure minutes: And each part is againe subdiuided into foure parts more, with little <hi>blacke</hi> strokes, at the beginning, middle, and end of the former lines: And so, the whole houre is actually diuided into sixtie <hi>Minutes.</hi> Of which, that line which signifieth twentie <hi>Minutes,</hi> and, that which signi<g ref="char:EOLhyphen"/>fieth 40. <hi>Minutes</hi> complete, are, for di<g ref="char:EOLhyphen"/>stinction sake, crossed with little <hi>Redde</hi> strokes. The vse of them may be,</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To shew the <hi>Houre</hi> and <hi>Mi<g ref="char:EOLhyphen"/>nute</hi> of the day by the shadow of the Style.</head>
+                  <p>THe <hi>houre</hi> of the day will be found, at one time or other, in more then fourescore seuerall places of this Stone: but no where so well, as in this <hi>Horizon<g ref="char:EOLhyphen"/>tall
+<pb n="10" facs="tcp:3722:8"/> Concaue.</hi> For, the <hi>houre</hi> is found on the East side of the Stone, onely in the morning; and on the West side, onely in the euening: On the South side, one<g ref="char:EOLhyphen"/>ly in the middle of the day; on the North side, either early in the morning, or late in the euening: On the <hi>Aequino<g ref="char:EOLhyphen"/>ctiall plaines,</hi> either onely in the Summer, or onely in the Winter: Here, it is found generally, both in Summer and Winter, morning and euening, and at all houres of the day. Not onely, the <hi>houre</hi> and <hi>quarter,</hi> (as in the rest of these Dials) but, the <hi>houre</hi> and <hi>minute:</hi> with many other conclusions answerable, which may not be expected in any Diall of another forme.</p>
+                  <p>When the Sunne shineth, obserue the shadow of the <hi>Style</hi> among the <hi>houre</hi> lines; the shadow of the one edge will commonly crosse the <hi>houre</hi> lines, and so, is vnfit for this purpose; but the sha<g ref="char:EOLhyphen"/>dow of the other edge, which leanes to the Northward, will alwayes fall, either betweene two <hi>houre</hi> lines, or vpon one
+<pb n="11" facs="tcp:3722:8"/> of them; and the <hi>houre</hi> line, where it fal<g ref="char:EOLhyphen"/>leth, will giue the <hi>houre</hi> and <hi>minute</hi> re<g ref="char:EOLhyphen"/>quired.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To shew the houre and minute of the <hi>Sunnes</hi> rising and set<g ref="char:EOLhyphen"/>ting, and the length of the Day, at all times of the yere, though the <hi>Sunne</hi> doe not shine.</head>
+                  <p>FIrst, find the <hi>day</hi> of the moneth, in the <hi>inner</hi> circle of the <hi>Margent;</hi> (which, from the eleuenth of <hi>December</hi> vntill the eleuenth of <hi>Iune,</hi> while the dayes are encreasing, will be found on the <hi>West</hi> part of the <hi>Concaue;</hi>) and there, the <hi>houre line</hi> which is drawen vp to the <hi>Day,</hi> will giue you the <hi>houre</hi> and <hi>minute</hi> of the <hi>Sunnes rising.</hi> But, from the eleuenth of <hi>Iune</hi> vntill the eleuenth of <hi>December,</hi> while the dayes are decreasing, the <hi>Day</hi> will be found on the <hi>East</hi> side of the <hi>Concaue:</hi> and there, the <hi>houre</hi> line which is drawen vp to the <hi>Day,</hi> will giue the
+<pb n="12" facs="tcp:3722:9"/>
+                     <hi>houre</hi> and <hi>minute</hi> of the <hi>Sunnes setting:</hi> and, the one being knowen will giue the other.</p>
+                  <p>As, if it were required, to know, what time the <hi>Sunne riseth</hi> and <hi>setteth,</hi> on the fourth day of <hi>Februarie.</hi> This mo<g ref="char:EOLhyphen"/>neth is found on the West part of the <hi>Concaue;</hi> and the <hi>houre-line,</hi> which mee<g ref="char:EOLhyphen"/>teth with the fourth day of this moneth, is that of 7. <hi>Ho.</hi> 8. <hi>Min</hi> in the morning; and, such is the time of the <hi>Sunnes rising:</hi> But, so much as the <hi>Sunne riseth</hi> before noone, so much he <hi>setteth</hi> after noone, within a minute more or lesse, and there<g ref="char:EOLhyphen"/>fore the time of the <hi>Sunnes setting</hi> is about 4. Ho. 52. Minutes after noone.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>3.</hi> To shew the day of the moneth, when the Sunne riseth or setteth at any houre and minute.</head>
+                  <p>ON the contrary, if you would finde the <hi>Day,</hi> when the <hi>Sunne riseth</hi> or <hi>setteth</hi> at any houre, First find the <hi>houre-line</hi> in the <hi>Concaue,</hi> and that will leade
+<pb n="13" facs="tcp:3722:9"/> you to the day of the moneth in the <hi>Margent.</hi>
+                  </p>
+                  <p>As, if it were required, On what <hi>Day</hi> the <hi>Sunne</hi> riseth at fiue in the mor<g ref="char:EOLhyphen"/>ning: first finde the <hi>houre-line</hi> of fiue, in the West part of the <hi>Concaue,</hi> and that will leade you to the tenth day of <hi>April.</hi> Then, because the <hi>Sunne, rising</hi> at fiue, doeth <hi>set</hi> at seuen, if you finde out the <hi>houre-line</hi> of seuen after noone, it will leade you to the thirteenth day of <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> which shewes, that the <hi>Sunne</hi> riseth at fiue in the morning, and setteth at seuen after noone, both on the tenth day of <hi>April,</hi> and the thirteenth of <hi>August.</hi>
+                  </p>
+                  <p>The like reason holdeth for the <hi>rising</hi> and <hi>setting</hi> of the <hi>Sunne</hi> at all other times of the yeere: as may appeare, by com<g ref="char:EOLhyphen"/>paring the <hi>Concaue</hi> with the <hi>Table</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+                  <pb n="14" facs="tcp:3722:10"/>
+                  <p>
+                     <table>
+                        <head>A Table for the Houre and Minute of the Sunne-</head>
+                        <row>
+                           <cell role="label" rows="2">
+                              <hi>Day.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ianuary</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>February</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>March.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>April.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>May.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Iune.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>3 59</cell>
+                           <cell>4 47</cell>
+                           <cell>5 42</cell>
+                           <cell>6 44</cell>
+                           <cell>7 37</cell>
+                           <cell>8 10</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>4 1</cell>
+                           <cell>4 49</cell>
+                           <cell>5 44</cell>
+                           <cell>6 45</cell>
+                           <cell>7 38</cell>
+                           <cell>8 11</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>4 2</cell>
+                           <cell>4 50</cell>
+                           <cell>5 46</cell>
+                           <cell>6 47</cell>
+                           <cell>7 40</cell>
+                           <cell>8 11</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>4 3</cell>
+                           <cell>4 52</cell>
+                           <cell>5 48</cell>
+                           <cell>6 49</cell>
+                           <cell>7 41</cell>
+                           <cell>8 11</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>4 4</cell>
+                           <cell>4 54</cell>
+                           <cell>5 50</cell>
+                           <cell>6 50</cell>
+                           <cell>7 43</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>4 5</cell>
+                           <cell>4 56</cell>
+                           <cell>5 52</cell>
+                           <cell>6 51</cell>
+                           <cell>7 44</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>4 6</cell>
+                           <cell>4 58</cell>
+                           <cell>5 54</cell>
+                           <cell>6 53</cell>
+                           <cell>7 46</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>4 7</cell>
+                           <cell>5 0</cell>
+                           <cell>5 56</cell>
+                           <cell>6 55</cell>
+                           <cell>7 47</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>4 8</cell>
+                           <cell>5 2</cell>
+                           <cell>5 58</cell>
+                           <cell>6 57</cell>
+                           <cell>7 48</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>4 10</cell>
+                           <cell>5 4</cell>
+                           <cell>6 0</cell>
+                           <cell>6 59</cell>
+                           <cell>7 49</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>4 11</cell>
+                           <cell>5 6</cell>
+                           <cell>6 2</cell>
+                           <cell>7 1</cell>
+                           <cell>7 51</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>4 13</cell>
+                           <cell>5 8</cell>
+                           <cell>6 4</cell>
+                           <cell>7 3</cell>
+                           <cell>7 52</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>4 14</cell>
+                           <cell>5 10</cell>
+                           <cell>6 6</cell>
+                           <cell>7 5</cell>
+                           <cell>7 53</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>4 16</cell>
+                           <cell>5 12</cell>
+                           <cell>6 8</cell>
+                           <cell>7 7</cell>
+                           <cell>7 55</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>4 17</cell>
+                           <cell>5 14</cell>
+                           <cell>6 10</cell>
+                           <cell>7 9</cell>
+                           <cell>7 56</cell>
+                           <cell>8 13</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>4 19</cell>
+                           <cell>5 16</cell>
+                           <cell>6 12</cell>
+                           <cell>7 11</cell>
+                           <cell>7 57</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell>4 20</cell>
+                           <cell>5 18</cell>
+                           <cell>6 14</cell>
+                           <cell>7 13</cell>
+                           <cell>7 58</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell>4 22</cell>
+                           <cell>5 20</cell>
+                           <cell>6 16</cell>
+                           <cell>7 15</cell>
+                           <cell>7 59</cell>
+                           <cell>8 12</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell>4 24</cell>
+                           <cell>5 22</cell>
+                           <cell>6 18</cell>
+                           <cell>7 16</cell>
+                           <cell>8 0</cell>
+                           <cell>8 11</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell>4 25</cell>
+                           <cell>5 24</cell>
+                           <cell>6 20</cell>
+                           <cell>7 18</cell>
+                           <cell>8 1</cell>
+                           <cell>8 11</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell>4 27</cell>
+                           <cell>5 26</cell>
+                           <cell>6 22</cell>
+                           <cell>7 20</cell>
+                           <cell>8 2</cell>
+                           <cell>8 10</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell>4 29</cell>
+                           <cell>5 28</cell>
+                           <cell>6 24</cell>
+                           <cell>7 22</cell>
+                           <cell>8 3</cell>
+                           <cell>8 10</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell>4 30</cell>
+                           <cell>5 30</cell>
+                           <cell>6 26</cell>
+                           <cell>7 24</cell>
+                           <cell>8 4</cell>
+                           <cell>8 10</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell>4 32</cell>
+                           <cell>5 32</cell>
+                           <cell>6 28</cell>
+                           <cell>7 25</cell>
+                           <cell>8 5</cell>
+                           <cell>8 9</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell>4 34</cell>
+                           <cell>5 34</cell>
+                           <cell>6 30</cell>
+                           <cell>7 27</cell>
+                           <cell>8 6</cell>
+                           <cell>8 9</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell>4 36</cell>
+                           <cell>5 36</cell>
+                           <cell>6 32</cell>
+                           <cell>7 28</cell>
+                           <cell>8 6</cell>
+                           <cell>8 8</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell>4 38</cell>
+                           <cell>5 38</cell>
+                           <cell>6 34</cell>
+                           <cell>7 30</cell>
+                           <cell>8 7</cell>
+                           <cell>8 7</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell>4 40</cell>
+                           <cell>5 40</cell>
+                           <cell>6 36</cell>
+                           <cell>7 32</cell>
+                           <cell>8 8</cell>
+                           <cell>8 6</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell>4 41</cell>
+                           <cell> </cell>
+                           <cell>6 38</cell>
+                           <cell>7 34</cell>
+                           <cell>8 9</cell>
+                           <cell>8 5</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell>4 43</cell>
+                           <cell> </cell>
+                           <cell>6 40</cell>
+                           <cell>7 35</cell>
+                           <cell>8 9</cell>
+                           <cell>8 5</cell>
+                        </row>
+                        <row>
+                           <cell>31</cell>
+                           <cell>4 45</cell>
+                           <cell> </cell>
+                           <cell>6 42</cell>
+                           <cell> </cell>
+                           <cell>8 10</cell>
+                           <cell> </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="15" facs="tcp:3722:10"/>
+                  <p>
+                     <table>
+                        <head>setting for euery day in the yeere.</head>
+                        <row>
+                           <cell role="label">
+                              <hi>Iuly.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>August</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Septemb.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>October.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Nouemb.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Decemb.</hi>
+                           </cell>
+                           <cell role="label" rows="2">
+                              <hi>Day.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ho. Mi</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>8 4</cell>
+                           <cell>7 22</cell>
+                           <cell>6 2<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>5 24</cell>
+                           <cell>4 26</cell>
+                           <cell>3 50</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>8 3</cell>
+                           <cell>7 20</cell>
+                           <cell>6 21</cell>
+                           <cell>5 22</cell>
+                           <cell>4 25</cell>
+                           <cell>3 50</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>8 2</cell>
+                           <cell>7 18</cell>
+                           <cell>6 19</cell>
+                           <cell>5 20</cell>
+                           <cell>4 23</cell>
+                           <cell>3 49</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>8 1</cell>
+                           <cell>7 1<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>6 18</cell>
+                           <cell>5 18</cell>
+                           <cell>4 21</cell>
+                           <cell>3 49</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>8 0</cell>
+                           <cell>7 14</cell>
+                           <cell>6 16</cell>
+                           <cell>5 16</cell>
+                           <cell>4 20</cell>
+                           <cell>3 48</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>7 59</cell>
+                           <cell>7 13</cell>
+                           <cell>6 14</cell>
+                           <cell>5 14</cell>
+                           <cell>4 18</cell>
+                           <cell>3 48</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>7 57</cell>
+                           <cell>7 11</cell>
+                           <cell>6 12</cell>
+                           <cell>5 12</cell>
+                           <cell>4 16</cell>
+                           <cell>3 48</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>7 56</cell>
+                           <cell>7 9</cell>
+                           <cell>6 10</cell>
+                           <cell>5 10</cell>
+                           <cell>4 15</cell>
+                           <cell>3 47</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>7 55</cell>
+                           <cell>7 7</cell>
+                           <cell>6 8</cell>
+                           <cell>5 8</cell>
+                           <cell>4 13</cell>
+                           <cell>3 47</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>7 54</cell>
+                           <cell>7 6</cell>
+                           <cell>6 6</cell>
+                           <cell>5 6</cell>
+                           <cell>4 12</cell>
+                           <cell>3 47</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>7 5<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>7 4</cell>
+                           <cell>6 4</cell>
+                           <cell>5 5</cell>
+                           <cell>4 11</cell>
+                           <cell>3 47</cell>
+                           <cell>11</cell>
+                        </row>
+                        <row>
+                           <cell>7 52</cell>
+                           <cell>7 2</cell>
+                           <cell>6 2</cell>
+                           <cell>5 3</cell>
+                           <cell>4 10</cell>
+                           <cell>3 47</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>7 50</cell>
+                           <cell>7 0</cell>
+                           <cell>6 0</cell>
+                           <cell>5 1</cell>
+                           <cell>4 8</cell>
+                           <cell>3 4<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>13</cell>
+                        </row>
+                        <row>
+                           <cell>7 49</cell>
+                           <cell>6 5<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>5 58</cell>
+                           <cell>4 59</cell>
+                           <cell>4 7</cell>
+                           <cell>3 47</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>7 48</cell>
+                           <cell>6 56</cell>
+                           <cell>5 56</cell>
+                           <cell>4 57</cell>
+                           <cell>4 5</cell>
+                           <cell>3 47</cell>
+                           <cell>15</cell>
+                        </row>
+                        <row>
+                           <cell>7 46</cell>
+                           <cell>6 54</cell>
+                           <cell>5 54</cell>
+                           <cell>4 55</cell>
+                           <cell>4 4</cell>
+                           <cell>3 47</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>7 45</cell>
+                           <cell>6 52</cell>
+                           <cell>5 52</cell>
+                           <cell>4 53</cell>
+                           <cell>4 3</cell>
+                           <cell>3 48</cell>
+                           <cell>17</cell>
+                        </row>
+                        <row>
+                           <cell>7 44</cell>
+                           <cell>6 50</cell>
+                           <cell>5 50</cell>
+                           <cell>4 51</cell>
+                           <cell>4 2</cell>
+                           <cell>3 48</cell>
+                           <cell>18</cell>
+                        </row>
+                        <row>
+                           <cell>7 42</cell>
+                           <cell>6 48</cell>
+                           <cell>5 48</cell>
+                           <cell>4 49</cell>
+                           <cell>4 0</cell>
+                           <cell>3 48</cell>
+                           <cell>19</cell>
+                        </row>
+                        <row>
+                           <cell>7 41</cell>
+                           <cell>6 46</cell>
+                           <cell>5 46</cell>
+                           <cell>4 47</cell>
+                           <cell>3 59</cell>
+                           <cell>3 40</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>7 39</cell>
+                           <cell>6 45</cell>
+                           <cell>5 44</cell>
+                           <cell>4 46</cell>
+                           <cell>3 58</cell>
+                           <cell>3 49</cell>
+                           <cell>21</cell>
+                        </row>
+                        <row>
+                           <cell>7 38</cell>
+                           <cell>6 43</cell>
+                           <cell>5 42</cell>
+                           <cell>4 44</cell>
+                           <cell>3 57</cell>
+                           <cell>3 50</cell>
+                           <cell>22</cell>
+                        </row>
+                        <row>
+                           <cell>7 36</cell>
+                           <cell>6 41</cell>
+                           <cell>5 40</cell>
+                           <cell>4 42</cell>
+                           <cell>3 56</cell>
+                           <cell>3 50</cell>
+                           <cell>2<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>7 35</cell>
+                           <cell>6 39</cell>
+                           <cell>5 38</cell>
+                           <cell>4 41</cell>
+                           <cell>3 55</cell>
+                           <cell>3 51</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>7 32</cell>
+                           <cell>6 37</cell>
+                           <cell>5 36</cell>
+                           <cell>4 39</cell>
+                           <cell>3 54</cell>
+                           <cell>3 52</cell>
+                           <cell>25</cell>
+                        </row>
+                        <row>
+                           <cell>7 31</cell>
+                           <cell>6 35</cell>
+                           <cell>5 34</cell>
+                           <cell>4 37</cell>
+                           <cell>3 54</cell>
+                           <cell>3 53</cell>
+                           <cell>26</cell>
+                        </row>
+                        <row>
+                           <cell>7 30</cell>
+                           <cell>6 33</cell>
+                           <cell>5 32</cell>
+                           <cell>4 35</cell>
+                           <cell>3 53</cell>
+                           <cell>3 54</cell>
+                           <cell>27</cell>
+                        </row>
+                        <row>
+                           <cell>7 28</cell>
+                           <cell>6 31</cell>
+                           <cell>5 30</cell>
+                           <cell>4 33</cell>
+                           <cell>3 52</cell>
+                           <cell>3 55</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>7 26</cell>
+                           <cell>6 29</cell>
+                           <cell>5 28</cell>
+                           <cell>4 31</cell>
+                           <cell>3 51</cell>
+                           <cell>3 56</cell>
+                           <cell>29</cell>
+                        </row>
+                        <row>
+                           <cell>7 25</cell>
+                           <cell>6 27</cell>
+                           <cell>5 26</cell>
+                           <cell>4 30</cell>
+                           <cell>3 51</cell>
+                           <cell>3 57</cell>
+                           <cell>30</cell>
+                        </row>
+                        <row>
+                           <cell>7 23</cell>
+                           <cell>6 25</cell>
+                           <cell> </cell>
+                           <cell>4 28</cell>
+                           <cell> </cell>
+                           <cell>3 58</cell>
+                           <cell>31</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="16" facs="tcp:3722:11"/>
+                  <p>The <hi>Concaue</hi> and this <hi>Table</hi> are both made for the <hi>Latitude</hi> of 51. <hi>gr.</hi> 30. ser<g ref="char:EOLhyphen"/>uing for <hi>London,</hi> &amp; such places as lie <hi>East</hi> or <hi>West</hi> from <hi>London</hi> in the same <hi>Lati<g ref="char:EOLhyphen"/>tude.</hi> But, if you goe from <hi>London,</hi> either Northward or Southward, there will be some small difference. For, here at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> vpon the longest day, the <hi>Sunne set<g ref="char:EOLhyphen"/>teth</hi> at 8. <hi>Hou.</hi> 13. <hi>Min.</hi> and so the <hi>length of the day</hi> is 16. <hi>Houres,</hi> 26. <hi>Minutes.</hi> A<g ref="char:EOLhyphen"/>bout <hi>Sillie,</hi> and the <hi>Lizard,</hi> the Souther<g ref="char:EOLhyphen"/>most parts of <hi>England,</hi> in the <hi>Latitude</hi> of 50. <hi>gr.</hi> the <hi>Sunne setteth</hi> at 8. <hi>Ho.</hi> 5. <hi>Min.</hi> And so, their <hi>longest day</hi> is about 16. <hi>Ho.</hi> 10. <hi>Min.</hi>
+                  </p>
+                  <p>About an hundred miles Northward from <hi>London,</hi> the <hi>Sunne setteth</hi> at 8. <hi>Ho.</hi> 22. <hi>Min.</hi> And so, their <hi>longest day</hi> is 16. <hi>Hou.</hi> 44. <hi>Minutes.</hi>
+                  </p>
+                  <p>About <hi>Edenborough</hi> in the <hi>Latitude</hi> of 56. <hi>gr.</hi> the <hi>Sunne setteth</hi> at 8. <hi>Ho.</hi> 40. <hi>Min.</hi> And so, their <hi>longest day</hi> is 17. <hi>Houres,</hi> 20. <hi>Minutes.</hi>
+                  </p>
+                  <p>About the <hi>Orcades,</hi> in the <hi>Latitude</hi> of 60. <hi>gr.</hi> the <hi>Sunne setteth</hi> at 9. <hi>Ho.</hi> 15. <hi>Min.</hi>
+                     <pb n="17" facs="tcp:3722:11"/> And so, their <hi>longest day</hi> is 18. <hi>Houres,</hi> 30. <hi>Minutes.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The vse of the Red Lines.</head>
+               <p>THe <hi>Red Lines,</hi> drawne crosse the the <hi>Houre lines,</hi> are of seuerall sortes, all tending to shew the motion of the <hi>Sunne.</hi> That which is drawne in the middle of the <hi>white</hi> ground, directly from East to West, is the <hi>Aequator.</hi>
+               </p>
+               <p>The other two, which are drawne from West to East, diuided into degrees, and noted with ♈ ♉ ♊, &amp;c. doe make vp the <hi>Ecliptique.</hi>
+               </p>
+               <p>The two vttermost are the two <hi>Tro<g ref="char:EOLhyphen"/>piques:</hi> That which is farthest from the Style, touching the <hi>Ecliptique</hi> in the be<g ref="char:EOLhyphen"/>ginning of ♑, is therefore called the <hi>Tro<g ref="char:EOLhyphen"/>pique</hi> of <hi>Capricorne.</hi>
+               </p>
+               <p>That which is neerer the Style touch<g ref="char:EOLhyphen"/>ing the <hi>Ecliptique</hi> in the beginning of ♋, is the <hi>Tropique</hi> of <hi>Cancer.</hi>
+               </p>
+               <p>The other intermediate <hi>Redde Lines</hi>
+                  <pb n="18" facs="tcp:3722:12"/> drawne betweene the <hi>Aequator</hi> and the <hi>Tropiques</hi> are <hi>Parallels</hi> of <hi>Declination,</hi> numbred at the <hi>Meridian,</hi> with 5, 10, 15, 20, according to their distance from the <hi>Aequator.</hi> The vse of them may be,</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To shew the Declination of the Sun by the shadow of the Style.</head>
+                  <p>WHen the <hi>Sunne</hi> shineth, obserue the shadow of the point of the Style among the <hi>Red lines.</hi> If it fall on the <hi>Aequator,</hi> the <hi>Sunne</hi> is at one of the <hi>Aequinoctiall points,</hi> either the begin<g ref="char:EOLhyphen"/>ning of ♈ or of ♎, and so hath no <hi>de<g ref="char:EOLhyphen"/>clination.</hi> If it fall on the <hi>Tropique</hi> of <hi>Can<g ref="char:EOLhyphen"/>cer,</hi> the <hi>Sunne</hi> is at the highest, and the day at the longest. If on the <hi>Tropique</hi> of <hi>Capricorne,,</hi> the <hi>Sunne</hi> is at the lowest, and the dayes at the shortest. If it fall on any of the <hi>Parallel lines</hi> betweene the <hi>Ae<g ref="char:EOLhyphen"/>quator</hi> and the <hi>Tropiques,</hi> the distance of that line from the <hi>Aequator,</hi> shall bee the <hi>declination</hi> of the <hi>Sunne.</hi>
+                  </p>
+                  <p>As, if the shadow of the top of the
+<pb n="19" facs="tcp:3722:12"/> style shall fall on any part of the tenth <hi>Parallel</hi> aboue the <hi>Aequator,</hi> it shewes, the <hi>Sunne</hi> to be at 10. <hi>gr.</hi> of <hi>South declina<g ref="char:EOLhyphen"/>tion:</hi> If on the twentieth <hi>Parallel</hi> belowe the <hi>Aequator,</hi> then is the <hi>declination</hi> of the <hi>Sunne</hi> 20. <hi>gr.</hi> from the <hi>Aequator North<g ref="char:EOLhyphen"/>ward.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> To shew the day of the moneth, by the shadow of the style.</head>
+                  <p>THe shadow of the point of the style will shew the <hi>declination;</hi> and the line of <hi>Declination</hi> will leade you to the <hi>Day of the Moneth,</hi> at the <hi>Margent</hi> of the <hi>Concaue.</hi>
+                  </p>
+                  <p>As, if the shadow of the top of the style shall fall on any part of the thir<g ref="char:EOLhyphen"/>teenth <hi>Parallel</hi> aboue the <hi>Aequator,</hi> it shewes the <hi>Sunne</hi> to bee at 13 <hi>gr.</hi> of <hi>South declination;</hi> and that <hi>Parallel</hi> of <hi>declination</hi> will leade you to the fourth of <hi>February,</hi> on the West side, and to the seuenteenth of <hi>October</hi> on the East
+<pb n="20" facs="tcp:3722:13"/> side of the <hi>Concaue:</hi> But, which of these two is the true day of the moneth, must bee knowne, either by the time of the yeere, or the second dayes obseruation.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>3.</hi> To shew the Place of the Sunne by the shadow of the Style.</head>
+                  <p>THe shadow of the point of the style will shew the <hi>Declination;</hi> and the intersection of the <hi>Parallel</hi> of <hi>Declination,</hi> with the <hi>Ecliptique,</hi> will bee the <hi>Place of the Sunne.</hi>
+                  </p>
+                  <p>As, if the shadow of the top of the style fall on 13, <hi>gr.</hi> of <hi>South Declination,</hi> this <hi>Parallel</hi> of <hi>Declination</hi> will crosse the <hi>Ecliptique</hi> neere 26 <hi>gr.</hi> of ♒, on the one side, and about the fourth of ♏ on the other side of the <hi>Concaue:</hi> But, which of these two is the true <hi>Place of the Sunne,</hi> will bee knowne by the day of the moneth neerest vnto the <hi>Signe</hi> of the <hi>Sunne.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:3722:13"/>
+                  <head>
+                     <hi>4.</hi> To shew the Houre and Mi<g ref="char:EOLhyphen"/>nute of the <hi>Sunnes rising</hi> and <hi>setting,</hi> by the shadow of the <hi>Style.</hi>
+                  </head>
+                  <p>THe shadow of the top of the Style will shew the <hi>Declination,</hi> and the houre-line, which meetes that <hi>Parallel</hi> of <hi>Declination</hi> at the <hi>Horizon</hi> (here repre<g ref="char:EOLhyphen"/>sented by the edge of the <hi>Margent</hi>) shall giue the <hi>houre</hi> and <hi>minute</hi> of the <hi>Sunnes rising</hi> and <hi>setting.</hi>
+                  </p>
+                  <p>As, if the Shadow of the top of the Style fall on 13. gr. of <hi>South declination,</hi> that <hi>Parallel</hi> of <hi>Declination,</hi> being fol<g ref="char:EOLhyphen"/>lowed to the <hi>Horizon</hi> at the West side of the <hi>Concaue,</hi> will there meete at the houre-line of seuen, and eight Minutes, and, such is the time of the <hi>Sunnes rising.</hi> Then follow this <hi>Parallel,</hi> to the <hi>Hori<g ref="char:EOLhyphen"/>zon,</hi> vnto the East side of the <hi>Concaue,</hi> and it will there meete with the <hi>houre-line</hi> of IIII. and 52. Min. which is the
+<pb n="22" facs="tcp:3722:14"/> time of the <hi>Sunnes setting.</hi> And the line betweene 7. <hi>Ho.</hi> 8. <hi>Min.</hi> in the morning, and 4. <hi>Ho.</hi> 52. <hi>Min.</hi> after noone, is the length of the <hi>Day.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>5.</hi> To find the <hi>Declination</hi> of the <hi>Sunne</hi> by knowing the day of the moneth.</head>
+                  <p>FIrst, find the <hi>Day</hi> of the <hi>Moneth</hi> in the inner Circle of the <hi>Margent;</hi> then, looke among the Red lines for the <hi>Pa<g ref="char:EOLhyphen"/>rallel</hi> of <hi>Declination,</hi> which is drawen vp to that <hi>Day:</hi> the distance of that <hi>Paral<g ref="char:EOLhyphen"/>lel,</hi> from the <hi>Aequator,</hi> shall shew you the <hi>Declination</hi> of the <hi>Sunne.</hi>
+                  </p>
+                  <p>As, if it were required, to finde the <hi>declination</hi> of the <hi>Sunne,</hi> for the fourth day of <hi>February:</hi> the <hi>Parallel</hi> drawen vp to this day will be found about 13 gr. aboue the <hi>Aequator:</hi> And such is the <hi>Declination</hi> of the <hi>Sunne</hi> to the <hi>Southward.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:3722:14"/>
+                  <head>
+                     <hi>6.</hi> To finde the <hi>Place</hi> of the <hi>Sun</hi> by knowing the Day of the mo<g ref="char:EOLhyphen"/>neth.</head>
+                  <p>THe <hi>Day</hi> of the Moneth will giue the <hi>Declination</hi> of the <hi>Sunne;</hi> and the <hi>Pa<g ref="char:EOLhyphen"/>rallel</hi> of <hi>Declination,</hi> will crosse the <hi>Eclip<g ref="char:EOLhyphen"/>tique</hi> in the <hi>Place</hi> of the <hi>Sunne.</hi>
+                  </p>
+                  <p>As, if the <hi>Day</hi> giuen be the fourth of <hi>February,</hi> the <hi>Parallel</hi> of <hi>Declination</hi> will be found to be 13. gr. <hi>Southward;</hi> and this <hi>Parallel</hi> doeth crosse the <hi>Ecliptique</hi> in the 26. gr. of ♒: which is the <hi>Place</hi> of the <hi>Sunne</hi> required.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The vse of the Blue lines.</head>
+               <p>THe vse of the <hi>Blue lines</hi> drawen from the bottome to the edge of the <hi>Con<g ref="char:EOLhyphen"/>caue</hi> is, to represent the <hi>Verticall circles,</hi> commonly called by the <hi>Arabian</hi> name, <hi>Azimuthes.</hi> These are, all, great Circles, drawen through the <hi>Zenith</hi> and the <hi>Na<g ref="char:EOLhyphen"/>dir,</hi> and doe diuide the <hi>Horizon</hi> into ae<g ref="char:EOLhyphen"/>quall
+<pb n="24" facs="tcp:3722:15"/> parts. The <hi>Meridian</hi> is one of them: But, the prime <hi>Verticall circle</hi> is that, which is drawen from East to West. These two diuide the <hi>Horizon</hi> into foure aequall parts: Each of these parts is di<g ref="char:EOLhyphen"/>uided, by Sea-men, into eight; and so, the whole into thirtie two points of the <hi>Compasse.</hi> But, <hi>Astronomers</hi> diuide each fourth part into 90. <hi>Degrees.</hi> I haue here set the points of the <hi>Compasse</hi> in the bottome of the <hi>Concaue,</hi> and at the <hi>Mar<g ref="char:EOLhyphen"/>gent;</hi> and the <hi>Astronomicall</hi> diuisions, be<g ref="char:EOLhyphen"/>tweene the <hi>Tropiques.</hi> The vse of them may be,</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To shew the <hi>Azimuth</hi> or Point of the <hi>Compasse,</hi> whereon the <hi>Sunne</hi> beareth from vs; how farre he is from the South; how neere to the East or West; and that, by the shadow of the Style.</head>
+                  <p>VVHen the <hi>Sunne</hi> shineth, obserue, where the shadow of the vpright
+<pb n="25" facs="tcp:3722:15"/> edge of the style falleth among the <hi>Azi<g ref="char:EOLhyphen"/>muth lines,</hi> the distance of that line from the <hi>Meridian,</hi> shall shewe the <hi>Azimuth,</hi> whereon the Sunne beareth.</p>
+                  <p>As, if on the fourth of <hi>February</hi> about 10. Ho. 5. Min. in the morning, the sha<g ref="char:EOLhyphen"/>dow of the vpright edge of the style fall on the third of the <hi>Blue lines</hi> from the <hi>Meridian,</hi> then is the Sunne 30. gr. from the South. If you follow this <hi>Blue line</hi> vnto the margent, it will there point be<g ref="char:EOLhyphen"/>tweene N W by N, and N N W where<g ref="char:EOLhyphen"/>fore it beareth from you on the contra<g ref="char:EOLhyphen"/>ry point betweene S E by S, and S S E.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> To find on what <hi>Azimuth</hi> or Point of the <hi>Compasse</hi> the Sunne riseth or setteth.</head>
+                  <p>FIrst find the day of the moneth in the inner circle of the <hi>Margent:</hi> then look among the <hi>Blue lines</hi> for the <hi>Azimuth</hi> which is drawen vp to the day: the di<g ref="char:EOLhyphen"/>stance of that line from the line of East
+<pb n="26" facs="tcp:3722:16"/> and West, shall giue the <hi>amplitude</hi> of the <hi>Sunnes rising</hi> and <hi>setting.</hi> If the day fall on the West side of the <hi>Concaue,</hi> the point opposite to the day, is the true point of the <hi>Sunnes rising:</hi> If the day fall on the East part of the <hi>Concaue,</hi> the point opposite to the day, is the true point of the <hi>Sunnes setting.</hi>
+                  </p>
+                  <p>As, if the day proposed were the fourth of <hi>Februarie:</hi> This moneth is found on the West part of the <hi>Concaue,</hi> and the day falleth neere the point of W N W, whose opposite point is E S E, the point of the <hi>Compasse</hi> whereon the <hi>Sunne riseth.</hi> Or, if you looke among the <hi>Blue lines</hi> in the <hi>Concaue,</hi> you shall finde the <hi>Azimuth</hi> which is drawen vp to the day, to be about 21 gr. from the line of East and West; which shewes, that the <hi>Amplitude</hi> of the <hi>Sunnes rising</hi> is about 21 gr. from the East.</p>
+                  <p>The like reason holdeth for all other times of the yeere, as may appeare by comparing the <hi>Concaue</hi> with the <hi>Table</hi> following.</p>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:3722:16"/>
+                  <p>The <hi>Concaue</hi> and this Table, are both made for the <hi>Latitude</hi> of 51 <hi>gr.</hi> 30 <hi>Min.</hi> seruing for <hi>London,</hi> and such places as lie East or West from <hi>London</hi> in the same <hi>Latitude.</hi> But, if you goe from <hi>London</hi> either Northward or Southward, there will bee some small difference.</p>
+                  <p>For, here at <hi>London</hi> the greatest <hi>Am<g ref="char:EOLhyphen"/>plitude</hi> is 39 <hi>gr.</hi> 50 <hi>min.</hi> that is, when the dayes are at the longest, the <hi>Sunne riseth</hi> 39 <hi>gr.</hi> 50 <hi>min.</hi> from the East Northward; and <hi>setteth</hi> 39 <hi>gr.</hi> 50. <hi>min.</hi> from the West Northward: when the dayes are at the shortest, he <hi>riseth</hi> 39 <hi>gr.</hi> 50 <hi>min.</hi> from the East Southward, and <hi>setteth</hi> as much from the West Southward.</p>
+                  <p>About <hi>Sillie</hi> and the <hi>Lizard,</hi> the Sou<g ref="char:EOLhyphen"/>thermost parts of <hi>England,</hi> in the <hi>Latitude</hi> of 50 <hi>Degr.</hi> the greatest <hi>Amplitude</hi> will be 38 <hi>Degr.</hi> 20 <hi>min.</hi>
+                  </p>
+                  <pb n="28" facs="tcp:3722:17"/>
+                  <p>
+                     <table>
+                        <head>A Table of Amplitudes for the rising and</head>
+                        <row>
+                           <cell role="label" rows="2">
+                              <hi>Day.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Ianuary</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>February</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>March.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>April.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>May.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Iune.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>36 39</cell>
+                           <cell>22 45</cell>
+                           <cell>5 37</cell>
+                           <cell>13 46</cell>
+                           <cell>29 48</cell>
+                           <cell>39 12</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>36 20</cell>
+                           <cell>22 11</cell>
+                           <cell>4 59</cell>
+                           <cell>14 22</cell>
+                           <cell>30 15</cell>
+                           <cell>39 20</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>36 0</cell>
+                           <cell>21 37</cell>
+                           <cell>4 21</cell>
+                           <cell>14 57</cell>
+                           <cell>30 41</cell>
+                           <cell>39 27</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>35 41</cell>
+                           <cell>21 3</cell>
+                           <cell>3 43</cell>
+                           <cell>15 32</cell>
+                           <cell>31 7</cell>
+                           <cell>39 33</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>35 21</cell>
+                           <cell>20 28</cell>
+                           <cell>3 5</cell>
+                           <cell>16 8</cell>
+                           <cell>31 32</cell>
+                           <cell>39 38</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>35 0</cell>
+                           <cell>19 53</cell>
+                           <cell>2 27</cell>
+                           <cell>16 43</cell>
+                           <cell>31 57</cell>
+                           <cell>39 42</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>34 39</cell>
+                           <cell>19 18</cell>
+                           <cell>1 49</cell>
+                           <cell>17 18</cell>
+                           <cell>32 21</cell>
+                           <cell>39 46</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>34 17</cell>
+                           <cell>18 43</cell>
+                           <cell>1 11</cell>
+                           <cell>17 53</cell>
+                           <cell>32 45</cell>
+                           <cell>39 49</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>33 54</cell>
+                           <cell>18 8</cell>
+                           <cell>0 32</cell>
+                           <cell>18 27</cell>
+                           <cell>33 8</cell>
+                           <cell>39 51</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>33 30</cell>
+                           <cell>17 32</cell>
+                           <cell>0 6</cell>
+                           <cell>19 1</cell>
+                           <cell>33 31</cell>
+                           <cell>39 52</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>33 6</cell>
+                           <cell>16 56</cell>
+                           <cell>0 44</cell>
+                           <cell>19 35</cell>
+                           <cell>33 53</cell>
+                           <cell>39 52</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>32 41</cell>
+                           <cell>16 20</cell>
+                           <cell>1 22</cell>
+                           <cell>20 10</cell>
+                           <cell>34 15</cell>
+                           <cell>39 51</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>32 16</cell>
+                           <cell>15 44</cell>
+                           <cell>2 0</cell>
+                           <cell>20 39</cell>
+                           <cell>34 36</cell>
+                           <cell>39 50</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>31 50</cell>
+                           <cell>15 7</cell>
+                           <cell>2 38</cell>
+                           <cell>21 15</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>4 56</cell>
+                           <cell>39 49</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>31 23</cell>
+                           <cell>14 30</cell>
+                           <cell>3 16</cell>
+                           <cell>21 48</cell>
+                           <cell>35 16</cell>
+                           <cell>39 46</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>30 57</cell>
+                           <cell>13 54</cell>
+                           <cell>3 54</cell>
+                           <cell>22 20</cell>
+                           <cell>35 35</cell>
+                           <cell>39 42</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell>30 29</cell>
+                           <cell>13 17</cell>
+                           <cell>4 31</cell>
+                           <cell>22 53</cell>
+                           <cell>35 54</cell>
+                           <cell>39 37</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell>30 1</cell>
+                           <cell>12 40</cell>
+                           <cell>5 9</cell>
+                           <cell>23 25</cell>
+                           <cell>36 12</cell>
+                           <cell>39 32</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell>29 33</cell>
+                           <cell>12 3</cell>
+                           <cell>5 47</cell>
+                           <cell>23 56</cell>
+                           <cell>36 29</cell>
+                           <cell>39 26</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell>29 4</cell>
+                           <cell>11 25</cell>
+                           <cell>6 25</cell>
+                           <cell>24 28</cell>
+                           <cell>36 46</cell>
+                           <cell>39 20</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell>28 34</cell>
+                           <cell>10 48</cell>
+                           <cell>7 2</cell>
+                           <cell>24 59</cell>
+                           <cell>37 2</cell>
+                           <cell>39 13</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell>28 4</cell>
+                           <cell>10 11</cell>
+                           <cell>7 39</cell>
+                           <cell>25 30</cell>
+                           <cell>37 18</cell>
+                           <cell>39 5</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell>27 34</cell>
+                           <cell>9 33</cell>
+                           <cell>8 10</cell>
+                           <cell>26 0</cell>
+                           <cell>37 32</cell>
+                           <cell>38 56</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell>27 4</cell>
+                           <cell>8 55</cell>
+                           <cell>8 53</cell>
+                           <cell>26 30</cell>
+                           <cell>37 46</cell>
+                           <cell>38 46</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell>26 33</cell>
+                           <cell>8 17</cell>
+                           <cell>9 30</cell>
+                           <cell>27 0</cell>
+                           <cell>37 59</cell>
+                           <cell>38 36</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell>26 1</cell>
+                           <cell>7 39</cell>
+                           <cell>10 7</cell>
+                           <cell>27 29</cell>
+                           <cell>38 12</cell>
+                           <cell>38 25</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell>25 29</cell>
+                           <cell>7 2</cell>
+                           <cell>10 44</cell>
+                           <cell>27 58</cell>
+                           <cell>38 24</cell>
+                           <cell>38 13</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell>24 57</cell>
+                           <cell>6 15</cell>
+                           <cell>11 21</cell>
+                           <cell>28 26</cell>
+                           <cell>38 35</cell>
+                           <cell>38 0</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell>24 25</cell>
+                           <cell> </cell>
+                           <cell>11 58</cell>
+                           <cell>28 54</cell>
+                           <cell>38 45</cell>
+                           <cell>37 47</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell>23 52</cell>
+                           <cell> </cell>
+                           <cell>12 34</cell>
+                           <cell>29 21</cell>
+                           <cell>38 55</cell>
+                           <cell>37 33</cell>
+                        </row>
+                        <row>
+                           <cell>31</cell>
+                           <cell>23 18</cell>
+                           <cell> </cell>
+                           <cell>13 10</cell>
+                           <cell> </cell>
+                           <cell>39 4</cell>
+                           <cell> </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="29" facs="tcp:3722:17"/>
+                  <p>
+                     <table>
+                        <head>setting of the Sunne, euery day of the yeere.</head>
+                        <row>
+                           <cell role="label">
+                              <hi>Iuly.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>August.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Septemb.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>October.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Nouemb.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Decemb.</hi>
+                           </cell>
+                           <cell role="label" rows="2">
+                              <hi>Day.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gr. Mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>37 18</cell>
+                           <cell>25 4</cell>
+                           <cell>7 15</cell>
+                           <cell>11 32</cell>
+                           <cell>29 3</cell>
+                           <cell>39 6</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>37 3</cell>
+                           <cell>24 33</cell>
+                           <cell>6 38</cell>
+                           <cell>12 9</cell>
+                           <cell>29 32</cell>
+                           <cell>39 15</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>36 47</cell>
+                           <cell>24 2</cell>
+                           <cell>6 1</cell>
+                           <cell>12 46</cell>
+                           <cell>30 0</cell>
+                           <cell>39 23</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>36 30</cell>
+                           <cell>23 31</cell>
+                           <cell>5 24</cell>
+                           <cell>13 23</cell>
+                           <cell>30 28</cell>
+                           <cell>39 30</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>36 13</cell>
+                           <cell>22 59</cell>
+                           <cell>4 47</cell>
+                           <cell>13 59</cell>
+                           <cell>30 56</cell>
+                           <cell>39 36</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>35 55</cell>
+                           <cell>22 27</cell>
+                           <cell>4 9</cell>
+                           <cell>14 <gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>6</cell>
+                           <cell>31 23</cell>
+                           <cell>39 41</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>35 36</cell>
+                           <cell>21 55</cell>
+                           <cell>3 31</cell>
+                           <cell>15 12</cell>
+                           <cell>31 49</cell>
+                           <cell>39 45</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>35 17</cell>
+                           <cell>21 22</cell>
+                           <cell>2 54</cell>
+                           <cell>15 48</cell>
+                           <cell>32 15</cell>
+                           <cell>39 48</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>34 57</cell>
+                           <cell>20 49</cell>
+                           <cell>2 16</cell>
+                           <cell>16 24</cell>
+                           <cell>32 40</cell>
+                           <cell>39 50</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>34 37</cell>
+                           <cell>20 16</cell>
+                           <cell>1 39</cell>
+                           <cell>17 0</cell>
+                           <cell>33 5</cell>
+                           <cell>39 51</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>34 16</cell>
+                           <cell>19 43</cell>
+                           <cell>1 1</cell>
+                           <cell>17 36</cell>
+                           <cell>33 29</cell>
+                           <cell>39 52</cell>
+                           <cell>11</cell>
+                        </row>
+                        <row>
+                           <cell>33 55</cell>
+                           <cell>19 9</cell>
+                           <cell>0 23</cell>
+                           <cell>18 11</cell>
+                           <cell>33 52</cell>
+                           <cell>39 52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>33 33</cell>
+                           <cell>18 35</cell>
+                           <cell>0 15</cell>
+                           <cell>18 46</cell>
+                           <cell>34 15</cell>
+                           <cell>39 50</cell>
+                           <cell>13</cell>
+                        </row>
+                        <row>
+                           <cell>33 10</cell>
+                           <cell>18 1</cell>
+                           <cell>0 53</cell>
+                           <cell>19 21</cell>
+                           <cell>34 37</cell>
+                           <cell>39 48</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>32 47</cell>
+                           <cell>17 27</cell>
+                           <cell>1 30</cell>
+                           <cell>19 56</cell>
+                           <cell>34 59</cell>
+                           <cell>39 45</cell>
+                           <cell>15</cell>
+                        </row>
+                        <row>
+                           <cell>32 23</cell>
+                           <cell>16 52</cell>
+                           <cell>2 8</cell>
+                           <cell>20 31</cell>
+                           <cell>35 20</cell>
+                           <cell>39 41</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>31 59</cell>
+                           <cell>16 17</cell>
+                           <cell>2 46</cell>
+                           <cell>21 5</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>5 40</cell>
+                           <cell>39 36</cell>
+                           <cell>17</cell>
+                        </row>
+                        <row>
+                           <cell>31 35</cell>
+                           <cell>15 42</cell>
+                           <cell>3 24</cell>
+                           <cell>21 39</cell>
+                           <cell>36 0</cell>
+                           <cell>39 30</cell>
+                           <cell>18</cell>
+                        </row>
+                        <row>
+                           <cell>31 10</cell>
+                           <cell>15 7</cell>
+                           <cell>4 1</cell>
+                           <cell>22 13</cell>
+                           <cell>36 19</cell>
+                           <cell>39 23</cell>
+                           <cell>19</cell>
+                        </row>
+                        <row>
+                           <cell>30 44</cell>
+                           <cell>14 32</cell>
+                           <cell>4 39</cell>
+                           <cell>22 47</cell>
+                           <cell>36 37</cell>
+                           <cell>39 15</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>30 18</cell>
+                           <cell>13 56</cell>
+                           <cell>5 17</cell>
+                           <cell>23 20</cell>
+                           <cell>36 55</cell>
+                           <cell>39 7</cell>
+                           <cell>21</cell>
+                        </row>
+                        <row>
+                           <cell>29 52</cell>
+                           <cell>13 20</cell>
+                           <cell>5 54</cell>
+                           <cell>23 5<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>37 12</cell>
+                           <cell>38 58</cell>
+                           <cell>22</cell>
+                        </row>
+                        <row>
+                           <cell>29 25</cell>
+                           <cell>12 44</cell>
+                           <cell>6 32</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>4 26</cell>
+                           <cell>37 28</cell>
+                           <cell>38 4<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>23</cell>
+                        </row>
+                        <row>
+                           <cell>28 57</cell>
+                           <cell>12 8</cell>
+                           <cell>7 10</cell>
+                           <cell>24 58</cell>
+                           <cell>37 4<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>38 37</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>28 29</cell>
+                           <cell>11 32</cell>
+                           <cell>7 48</cell>
+                           <cell>25 30</cell>
+                           <cell>37 57</cell>
+                           <cell>38 25</cell>
+                           <cell>25</cell>
+                        </row>
+                        <row>
+                           <cell>28 1</cell>
+                           <cell>10 56</cell>
+                           <cell>8 26</cell>
+                           <cell>20 2</cell>
+                           <cell>38 11</cell>
+                           <cell>38 12</cell>
+                           <cell>26</cell>
+                        </row>
+                        <row>
+                           <cell>27 32</cell>
+                           <cell>10 20</cell>
+                           <cell>9 3</cell>
+                           <cell>26 33</cell>
+                           <cell>38 23</cell>
+                           <cell>37 58</cell>
+                           <cell>27</cell>
+                        </row>
+                        <row>
+                           <cell>27 3</cell>
+                           <cell>9 43</cell>
+                           <cell>9 41</cell>
+                           <cell>27 4</cell>
+                           <cell>38 35</cell>
+                           <cell>37 44</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>26 34</cell>
+                           <cell>9 7</cell>
+                           <cell>10 18</cell>
+                           <cell>27 34</cell>
+                           <cell>38 47</cell>
+                           <cell>37 29</cell>
+                           <cell>29</cell>
+                        </row>
+                        <row>
+                           <cell>26 4</cell>
+                           <cell>8 30</cell>
+                           <cell>10 55</cell>
+                           <cell>28 4</cell>
+                           <cell>38 57</cell>
+                           <cell>37 13</cell>
+                           <cell>30</cell>
+                        </row>
+                        <row>
+                           <cell>25 34</cell>
+                           <cell>7 53</cell>
+                           <cell> </cell>
+                           <cell>28 34</cell>
+                           <cell> </cell>
+                           <cell>36 56</cell>
+                           <cell>31</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="30" facs="tcp:3722:18"/>
+                  <p>About the North of <hi>England</hi> in the <hi>Latitude</hi> of 55 <hi>Degr.</hi> 40 <hi>Min.</hi> the greatest <hi>Amplitude</hi> will be 45 <hi>Gr.</hi> And so, when the dayes are at the longest, the <hi>Sunne</hi> will <hi>rise</hi> due <hi>North-East,</hi> and <hi>set</hi> in the <hi>North-west.</hi> When the dayes are at the shortest, he will <hi>rise</hi> in the <hi>South-east,</hi> and <hi>sette</hi> in the <hi>South-west.</hi>
+                  </p>
+                  <p>About the North of <hi>Scotland</hi> in the <hi>Latitude</hi> of 60 <hi>Gr.</hi> the greatest <hi>Amplitude</hi> will be about 52 <hi>Degr.</hi> 50 <hi>Min.</hi> And, af<g ref="char:EOLhyphen"/>ter you come to 66 <hi>degr.</hi> of <hi>Latitude,</hi> you may see the <hi>Sunne</hi> in the <hi>North.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>3.</hi> To find the <hi>Azimuth</hi> or Point of the <hi>Compasse</hi> whereon the <hi>Sunne</hi> beareth, for all houres of the day, at any time of the yeere.</head>
+                  <p>THe <hi>time of the yeere</hi> is here represen<g ref="char:EOLhyphen"/>ted by the <hi>Red Parallel lines</hi> of <hi>Decli<g ref="char:EOLhyphen"/>nation;</hi> the <hi>time of the day,</hi> by the <hi>Blacke houre-lines.</hi> First, find, where these two
+<pb n="31" facs="tcp:3722:18"/> doe meete, and then see, which of the <hi>Blue lines</hi> would passe through that in<g ref="char:EOLhyphen"/>tersection; The distance of that <hi>Blue line</hi> from the line of East and West shall giue the <hi>Azimuth</hi> required.</p>
+                  <p>As, if the <hi>day</hi> proposed were the sixth day of April, and it were required to know the <hi>Azimuth</hi> whereon the <hi>Sunne</hi> beareth at 9. Ho. 45. Min. in the mor<g ref="char:EOLhyphen"/>ning. This moneth is found on the West part of the <hi>Concaue,</hi> and the <hi>Parallel</hi> of <hi>Declination</hi> drawen vp to the sixth day of this moneth, is about 10 Degrees di<g ref="char:EOLhyphen"/>stant from the <hi>Aequator:</hi> This <hi>Parallel</hi> doth crosse the <hi>houre-line</hi> of 9 Ho. 45 Mi. in the middle betweene two <hi>Blue Azi<g ref="char:EOLhyphen"/>muth lines,</hi> and following this middle vnto the <hi>Margent,</hi> I find there, it directs me to the point N W, in the inner circle; and so, to 45 Degr. from the West in the middle Circle of the <hi>Margent,</hi> which shewes, that the <hi>Sunne</hi> is in the opposite point 45 degr. distant from the East, vp<g ref="char:EOLhyphen"/>on the Southeast point of the <hi>Compasse.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:3722:19"/>
+                  <head>
+                     <hi>4.</hi> To finde the <hi>Houre</hi> and <hi>Mi<g ref="char:EOLhyphen"/>nute</hi> when the Sun shall come to any <hi>Azimuth,</hi> at all times of the yeere.</head>
+                  <p>AS, if it were required, to know, at what houre the <hi>Sunne</hi> would be in the East, on the <hi>longest day</hi> of the yeere.</p>
+                  <p>The <hi>Sunne riseth</hi> in the East, at VI. in the morning, and <hi>setteth</hi> in the West, at VI. in the euening, about the tenth of <hi>March,</hi> and the thirteenth of <hi>September:</hi> but, all other times of the yeere, it will be past VI. in the morning before hee come to the East, and he will be past the West before VI. of the clocke in the euening. As here the <hi>Tropique</hi> of <hi>Cancer,</hi> which is the <hi>Parallel</hi> of the <hi>longest day,</hi> doth crosse the West <hi>Azimuth</hi> at 7. <hi>Ho.</hi> 22. <hi>Min.</hi> in the morning; And such is the time of the <hi>Sunnes</hi> comming to the East.</p>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:3722:19"/>
+                  <head>
+                     <hi>5.</hi> To find the Day of the Mo<g ref="char:EOLhyphen"/>neth when the Sunne commeth to any Point of the Compasse at any houre proposed.</head>
+                  <p>AS, if it were required, to find the <hi>day</hi> of the moneth when the Sunne shall come to due East, at VII. in the mor<g ref="char:EOLhyphen"/>ning; I shall finde that the <hi>houre-line</hi> of VII. in the morning doeth crosse the West <hi>Azimuth</hi> at the <hi>Parallel</hi> of 18. degr. of North <hi>Declination;</hi> and this <hi>Parallel</hi> doth leade me to the first of <hi>May</hi> on the West side, and to the two and twentieth of <hi>Iuly,</hi> on the East side of the <hi>Concaue:</hi> which shewes, that the Sun will be due East at seuen in the morning, and due West at fiue in the euening, both, on the first of <hi>May,</hi> and the xxij<seg rend="sup">th</seg>. of <hi>Iuly.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The vse of the Yellow lines.</head>
+               <p>THe <hi>Yellow lines</hi> are, all of them, lesser Circles, drawen vpon the same cen<g ref="char:EOLhyphen"/>ter in the bottome of the <hi>Concaue;</hi> and
+<pb n="34" facs="tcp:3722:20"/> so, <hi>Parallel</hi> one to the other; represen<g ref="char:EOLhyphen"/>ting the <hi>Parallels</hi> of <hi>Altitude,</hi> commonly called, by the <hi>Arabian</hi> name, <hi>Almicanters.</hi> There be sixtie two of them; and they be numbred, both at the <hi>Meridian,</hi> and at the <hi>Tropique</hi> of <hi>Cancer,</hi> in <hi>Yellow Fi<g ref="char:EOLhyphen"/>gures</hi> with 5, 10, 15, &amp;c. according to their distance from the <hi>Horizon,</hi> which is heere represented by the edge of the <hi>Concaue.</hi> The vse of them is,</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To finde the <hi>Altitude</hi> of the <hi>Sunne</hi> aboue the <hi>Horizon.</hi>
+                  </head>
+                  <p>WHen the Sunne shineth, obserue the shadow of the Style, that fal<g ref="char:EOLhyphen"/>leth among the <hi>Yellow lines;</hi> The distance of that <hi>Yellow Parallel</hi> from the <hi>Horizon</hi> shall giue the <hi>Parallel</hi> of the Sunnes <hi>alti<g ref="char:EOLhyphen"/>tude</hi> aboue the <hi>Horizon.</hi>
+                  </p>
+                  <p>As, if the shadow of the top of the Style shall fall on any part of the tenth <hi>Parallel,</hi> it shewes the Sun to be at 10 <hi>gr.</hi> of <hi>altitude</hi> aboue the <hi>Horizon.</hi> And so, in the rest.</p>
+               </div>
+               <div type="section">
+                  <pb n="35" facs="tcp:3722:20"/>
+                  <head>
+                     <hi>2.</hi> To finde the <hi>Altitude</hi> of the Sunne for any Day and Houre proposed. <hi>3.</hi> To finde the <hi>Altitude</hi> of the Sunne for any Day and <hi>Azi<g ref="char:EOLhyphen"/>muth</hi> proposed. <hi>4.</hi> To finde the <hi>Altitude</hi> of the Sunne for any Houre and <hi>Azi<g ref="char:EOLhyphen"/>muth</hi> proposed.</head>
+                  <p>THese and such like Propositions, with their <hi>conuerses,</hi> depend vpon the meeting of these <hi>Yellow lines</hi> at the in<g ref="char:EOLhyphen"/>tersection of any two of the other lines before described.</p>
+                  <p>As, if it were required, to find, what <hi>altitude</hi> the Sunne shall haue, on the sixt day of April at nine of the clocke in the morning. First, find the <hi>Parallel</hi> of <hi>de<g ref="char:EOLhyphen"/>clination,</hi> belonging to the Day, and his intersection with the houre-of nine in the morning; then may you finde, the
+<pb n="36" facs="tcp:3722:21"/>
+                     <hi>Yellow line</hi> drawen through this interse<g ref="char:EOLhyphen"/>ction to be neere 35 Degr. distant from the edge of the <hi>Concaue;</hi> And, such will be the <hi>altitude</hi> of the Sunne aboue the <hi>Horizon,</hi> at the time proposed. The like reason holdeth for all the rest.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The vse of the Greene lines.</head>
+               <p>IT was the maner of the Ancients, to diuide the day into twelue houres, and the night into other twelue houres: but, the houres of the day were com<g ref="char:EOLhyphen"/>monly either longer or shorter then the houres of the night, and the Summer houres alwayes longer then the Winter houres: whereupon, they are called the <hi>olde, vnaequall;</hi> and (by some) the <hi>Plane<g ref="char:EOLhyphen"/>tarie houres.</hi>
+               </p>
+               <p>These houres, for the day, are heere represented by the <hi>Greene lines,</hi> and are numbred in <hi>Greene figures</hi> by 1, 2, 3, 4, &amp;c. at the <hi>Tropique</hi> of <hi>Capricorne.</hi> The vse of them is,</p>
+               <div type="section">
+                  <pb n="37" facs="tcp:3722:21"/>
+                  <head>
+                     <hi>1.</hi> To finde the <hi>olde, vnaequall</hi> houre of the day.</head>
+                  <p>WHen the Sunne shineth, obserue the shadow of the top of the <hi>style,</hi> among the <hi>Greene lines;</hi> the line next af<g ref="char:EOLhyphen"/>ter the shadow shall giue the houre re<g ref="char:EOLhyphen"/>quired.</p>
+                  <p>As, if the shadow of the top of the Style shall fall betweene the <hi>Horizon</hi> and the <hi>Greene line</hi> noted with 1, it is the first houre: If betweene the first houre-line and the second, it is the second houre: If it fall directly on the second houre, it is the second houre complete, according to the accompt of the Ancients.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> To compare the <hi>old vnaequall</hi> houres with the houres of the Clocke.</head>
+                  <p>AS, if it were required, to know what <hi>houre of the day,</hi> it would be, at <hi>nine</hi> of the clocke in the morning vpon the longest day.</p>
+                  <pb n="38" facs="tcp:3722:22"/>
+                  <p>First, finde the <hi>Parallel</hi> of the day, and his intersection with the houre of IX, then may you finde this intersection to fall betweene the third and the fourth of the <hi>greene lines;</hi> and so it is the <hi>fourth houre</hi> of the <hi>Day.</hi> For, when the dayes are at the longest with vs, the first houre beginneth at III of the clocke and 47 <hi>Min.</hi> in the Morning, and endeth at V and 9 <hi>Min.</hi> The second houre begin<g ref="char:EOLhyphen"/>neth where the first endeth, and is com<g ref="char:EOLhyphen"/>plete at VI and 31 <hi>Min.</hi> The third houre is complete at VII and 53 <hi>Min.</hi> The fourth, at IX and 15 <hi>Mi.</hi> The fift, at X and 37 <hi>Mi.</hi> The sixt houre alwayes en<g ref="char:EOLhyphen"/>deth at high noone: and the rest in the like order: each of these twelue Houres beeing equall to 1 <hi>Ho.</hi> 22 <hi>Min.</hi> of the Clocke.</p>
+                  <p>At the two <hi>Aequinoctiall</hi> dayes, when the Sunne riseth at sixe, and setteth at sixe, these houres of the day will bee e<g ref="char:EOLhyphen"/>quall to the houres of the Clocke: But, in the depth of Winter, one of these houres, will be but 38 Minutes of a com<g ref="char:EOLhyphen"/>mon houre.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:3722:22"/>
+               <head>The vse of the Circle of the Age of the Moone.</head>
+               <p>THe Circle drawne at the roote of the Style, diuided with blacke strokes into 29½, representeth the Age of the Moone: The other Circle within it, di<g ref="char:EOLhyphen"/>uided with white strokes into 24, repre<g ref="char:EOLhyphen"/>senteth the Houres of the Day, and bee<g ref="char:EOLhyphen"/>ing continued, would agree with the Houre lines betweene the <hi>Tropiques.</hi>
+               </p>
+               <p>The vse of these Circles, is;</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> Knowing the Age of the Moone, to finde the time when she com<g ref="char:EOLhyphen"/>meth to the South.</head>
+                  <p>FIrst, finde the Age of the Moone in the outward Circle, so, the next Houre line, in the inward Circle, shall giue you the time when she commeth to the South.</p>
+                  <p>Thus, you may find, that if the Moone
+<pb n="40" facs="tcp:3722:23"/> be ten dayes old, she wil be in the South, at eight of the Clocke in the Euening: If fifteene dayes old, then about twelue of the clocke at midnight: If twenty fiue dayes old, then at eight in the Mor<g ref="char:EOLhyphen"/>ning: And vpon this it followeth;</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> Knowing the Age of the Moone, to find the time when it will bee high water.</head>
+                  <p>FIrst, inquire what difference there is betweene the time of the Moones comming to the <hi>South,</hi> and the time of High water; for, that once knowne, is knowne for euer. For example, It is commonly sayd, that when the Moone commeth to the Southwest, it will bee High water at <hi>London</hi> bridge; and this is about three houres after her comming to the South. And againe when shee commeth to the Northeast, which is a<g ref="char:EOLhyphen"/>bout three houres after her comming to the North part of the <hi>Meridian.</hi>
+                  </p>
+                  <pb n="41" facs="tcp:3722:23"/>
+                  <p>Suppose then, that the Moone is ten dayes old, then will she be in the South, by the former Proposition, at Eight in the Euening, or in the North at Eight in the Morning, adde vnto this three houres more, and it will be High water at Eleuen of the Clocke.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>3.</hi> Knowing the Age of the Moon, to finde the houre of the night, by the shadow of the Style.</head>
+                  <p>THe houre of the Moone from the <hi>Meridian,</hi> may bee found out at any time when the Moone shineth; by the shadow of the Style, in such sort as we finde the houre of the Day when the Sunne shineth. For, if the Moone bee in the South, shee will cast the shadow of the Style vpon the houre of XII; and if shee cast a shadow vpon I, or II, it shewes that shee is accordingly either one houre, or two, or more past the <hi>Me<g ref="char:EOLhyphen"/>ridian.</hi>
+                  </p>
+                  <p>Suppose the Moone to be ten dayes
+<pb n="42" facs="tcp:3722:24"/> old, and that she did cast a shadow vp<g ref="char:EOLhyphen"/>on the houre of V after noone; I would then say it were about one of the clocke in the morning: For, the Moone being ten dayes old, she commeth to the South at VIII in the Euening, and therefore, when shee is fiue houres past the South, it must bee I, in the morning.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The description and vse of the four Corner Dials.</head>
+               <p>THe foure <hi>Triangular Dials</hi> at the Corners of the Stone, decline from the prime <hi>verticall,</hi> and incline to the <hi>Horizon.</hi>
+               </p>
+               <p>In these, The Blacke lines shew the ordinary Houres: the Redde lines shew the Summer, and Winter, and the Aequi<g ref="char:EOLhyphen"/>noctiall shadow.</p>
+               <p>If the shadow of the top of the Style shall fall vpon the middle Red line no<g ref="char:EOLhyphen"/>ted with ♈ and ♎, then is the Sunne in the Aequinoctiall:</p>
+               <p>It falleth vpon the Line noted with
+<pb n="43" facs="tcp:3722:24"/> ♋, in the height of Summer; and vp<g ref="char:EOLhyphen"/>on the Line noted with ♑, in the depth of Winter.</p>
+               <p n="1">1 The Blue lines at the Northeast Corner, noted with 1, 2, 3, 4, &amp;c. shewe the Houres from the Sunne rising. The shadow of the top of the Style will fall vpon the Line of 1, at one houre after the Sunne rising, and vpon the houre of 2, when the Sunne is two houres high in the East.</p>
+               <p n="2">2 The Blue lines at the Northwest Corner, noted with 1, 2, 3, 4, &amp;c. shew the houres from Sunne setting. The shadow of the top of the Style will fall vpon the Line of 2, when the Sunne is two houres high in the West: and vpon the Line of 1, when the Sunne wants but one houre of setting.</p>
+            </div>
+            <div type="part">
+               <head>The description and vse of the Di<g ref="char:EOLhyphen"/>als on the South side of the stone.</head>
+               <p>THe <hi>South side</hi> of the stone hath many Dialls:</p>
+               <pb n="44" facs="tcp:3722:25"/>
+               <p>One great <hi>Ʋerticall Diall:</hi>
+               </p>
+               <p>Two <hi>Aequinoctiall Dials,</hi> whereon the Sunne neuer shineth but in Winter:</p>
+               <p>One <hi>Ʋerticall Concaue</hi> in the middle:</p>
+               <p>Two <hi>Declining Dials,</hi> on either side of this <hi>Concaue:</hi>
+               </p>
+               <p>Two small <hi>Polar Concaues:</hi>
+               </p>
+               <p>Two <hi>Irregular Dials,</hi> with three Styles in each <hi>Diall:</hi>
+               </p>
+               <p>Of these, the <hi>Aequinoctiall,</hi> the <hi>Decli<g ref="char:EOLhyphen"/>ners,</hi> and the <hi>Irregular Dials</hi> haue onely Blacke lines to shewe the Ordinary Houres: But the great <hi>Verticall,</hi> and the three <hi>Concaues,</hi> as they haue lines of dif<g ref="char:EOLhyphen"/>ferent colours, so they are such as were not on the former Stone.</p>
+               <p>The Lines drawne on the great <hi>Ver<g ref="char:EOLhyphen"/>ticall,</hi> may be knowen &amp; distinguished in this maner: The <hi>Aequator,</hi> the <hi>Tropiques</hi> and the <hi>Parallels</hi> of the length of the day, are all drawne in Red lines: The <hi>Houre-lines</hi> from the <hi>Sun-rising,</hi> in <hi>Yellow:</hi> The <hi>I<g ref="char:EOLhyphen"/>talian houre-lines</hi> from the last <hi>Sun-setting</hi> in Blue. And so much is there intima<g ref="char:EOLhyphen"/>ted in foure Latine verses:
+<q>
+                     <pb n="45" facs="tcp:3722:25"/>
+                     <l>Vmbrarum metas, Occasum <hi>Solis &amp;</hi> Ortum,</l>
+                     <l>
+                        <hi>Et</hi> quàm longa dies, <hi>Linearubra dabit:</hi>
+                     </l>
+                     <l>Flaua, à Sole oriente <hi>horas;</hi> à Sole cadente,</l>
+                     <l>Caerulea, <hi>Italico,</hi> Linea, <hi>more, notat.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>The vse of the Red Lines in finding,
+<list>
+                     <item>
+                        <hi>1.</hi> The Length of the Day.</item>
+                     <item>
+                        <hi>2.</hi> The Time of the Sunnes rising.</item>
+                     <item>
+                        <hi>3.</hi> The Time of the Sunnes setting.</item>
+                  </list>
+               </head>
+               <p>ALl varietie of shadowes is bounded betweene the two extreme <hi>Redde Lines.</hi>
+               </p>
+               <p>The vppermost, noted with ♑, repre<g ref="char:EOLhyphen"/>senteth the <hi>Tropique</hi> of <hi>Capricorne:</hi> And when the shadow of the top of the <hi>Style</hi> shall fall on this line, then is the <hi>Sunne</hi> at the lowest, and the <hi>Dayes</hi> at the shor<g ref="char:EOLhyphen"/>test.</p>
+               <p>The lowermost, noted with ♋. is the <hi>Tropique</hi> of <hi>Cancer:</hi> when the shadow commeth to this line, then is the <hi>Sunne</hi> at the highest, and the dayes at the longest.</p>
+               <pb n="46" facs="tcp:3722:26"/>
+               <p>The other <hi>Red lines,</hi> noted in the mid<g ref="char:EOLhyphen"/>dle with 8, 9, 10, 11, 12, 13, 14, 15, 16, are <hi>Parallels</hi> of the length of the Day.</p>
+               <p>The streight line drawen in the mid<g ref="char:EOLhyphen"/>dle, noted with ♈ and ♎, is the <hi>Aequino<g ref="char:EOLhyphen"/>ctiall.</hi> Vpon this line is written, 6 at the one end, 12 in the middle, and 6 at the other end. This shewes, that when the shadow of the top of the <hi>Style</hi> shall fall on this line, then is the <hi>Sunne</hi> in the <hi>Ae<g ref="char:EOLhyphen"/>quinoctiall;</hi> the <hi>length</hi> of the <hi>Day</hi> is twelue houres; the <hi>Sunne riseth</hi> at VI, and <hi>set<g ref="char:EOLhyphen"/>teth</hi> at VI. In like manner, If the sha<g ref="char:EOLhyphen"/>dow shall fall vpon the line noted with 10; it sheweth, that the <hi>length</hi> of the <hi>day</hi> is ten houres; the <hi>Sunne riseth</hi> at VII in the morning, and <hi>setteth</hi> at V, in the euening.</p>
+               <p>At the end of these <hi>Red lines,</hi> are the <hi>Signes</hi> and the <hi>Moneths;</hi> thereby to shew the <hi>Place</hi> of the <hi>Sunne,</hi> and the <hi>Time</hi> of the <hi>Yeere.</hi> As, at the one ende of the <hi>Aequinoctiall,</hi> there is the Signe of <hi>Aries,</hi> and the Moneth of <hi>March:</hi> at the other end, the Signe of <hi>Libra,</hi> and the Moneth
+<pb n="47" facs="tcp:3722:26"/> of <hi>September:</hi> which shew, that in these moneths, the <hi>Sun</hi> will be in these <hi>Signes,</hi> the shadow will fall on these <hi>Parallels,</hi> and there shew the <hi>length of the Day,</hi> as before. <hi>Et è conuerso.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The vse of the Yellow Lines; in shewing the houres past since the Sunne-rising.</head>
+               <p>THe streight line drawen betweene the <hi>Blue</hi> and the <hi>White</hi> grounds re<g ref="char:EOLhyphen"/>presenteth the <hi>Horizon:</hi> for when the <hi>Sunne</hi> commeth to the <hi>Horizon,</hi> either at his <hi>rising,</hi> or at his <hi>setting,</hi> the shadow of the top of the Style will fall vpon this line.</p>
+               <p>The <hi>Yellow lines</hi> noted with 1 2, 3, 4, &amp;c. doe shew the houres after the <hi>Sun-rising,</hi> according to the distance from the <hi>Horizon.</hi>
+               </p>
+               <p>As, if the shadow of the top of the <hi>Style</hi> shall fall on any part of the <hi>yellow line</hi> noted with 1, it shewes, that the <hi>Sunne</hi> is an houre high: If on the like
+<pb n="48" facs="tcp:3722:27"/> line noted with 2, then are there two houres past, betweene that and the time of the <hi>Sunnes rising.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The vse of the Blue Lines in shew<g ref="char:EOLhyphen"/>ing the houres past since the last Sunne-setting.</head>
+               <p>IN <hi>Italy</hi> (as Trauailers say) the Clocke strikes twentie foure at <hi>Sunne setting;</hi> at one houre after, it strikes one; and then, two, three, and so forward vntill the next <hi>Sunnes setting.</hi> So that, if the day shall be eight houres long, it will strike sixteene at <hi>Sunne rising,</hi> and twenty at high noone: If the day shall be six<g ref="char:EOLhyphen"/>teene houres long, it will strike eight at <hi>Sunne-rising,</hi> and sixteene at high noone. These houres are heere represented in <hi>Blue lines.</hi>
+               </p>
+               <p>As, if on the tenth of our April, at X of our clocke in the morning, you obserue the shadow of the top of the Style, you shall find it to fall among the
+<pb n="49" facs="tcp:3722:27"/>
+                  <hi>Red lines</hi> on the <hi>Parallel</hi> of 14; on the line of 5, among the <hi>Yellow lines;</hi> and, on the line of 15, among the <hi>Blue lines:</hi> which shewes, that the <hi>length of that Day</hi> is 14 houres; and the <hi>time of the Day,</hi> 5 houres from the <hi>Sunnes rising,</hi> and 15 houres from the last <hi>Sunnes setting.</hi>
+               </p>
+               <p>In the <hi>Ʋerticall Concaue,</hi> at the mid<g ref="char:EOLhyphen"/>dle of the South side of the Stone, this verse is written:
+<q>Horae vulgares, <hi>&amp;</hi> Signa in culmine coeli.</q>
+               </p>
+               <p>The lines there drawen are of three sorts: The <hi>common houre-lines</hi> are drawen in <hi>Blacke:</hi> The <hi>Aequator</hi> and <hi>Tropiques</hi> drawen in <hi>Redde,</hi> as in the other Dials. The other lines noted with ♈, ♉, ♊, &amp;c. are the lines of the twelue <hi>Signes.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>To shew, which of the xij Signes is in the Meridian.</head>
+               <p>ALl the twelue <hi>Signes</hi> doe passe, by the <hi>Meridian,</hi> in xxiiij houres, but,
+<pb n="50" facs="tcp:3722:28"/> vnaequally; some, in lesse time then two houres; some in more.</p>
+               <p>When the <hi>Sunne</hi> shineth, obserue, where the shadow of the toppe of the Style falleth among these <hi>lines</hi> of <hi>Signes;</hi> for, that sheweth the <hi>Signe</hi> which is then in the <hi>South,</hi> and so, passing by the <hi>Me<g ref="char:EOLhyphen"/>ridian.</hi>
+               </p>
+               <p>As the <hi>Sunne,</hi> being in the <hi>Aequino<g ref="char:EOLhyphen"/>ctiall,</hi> at IX of the Clocke in the mor<g ref="char:EOLhyphen"/>ning, the shadow falleth vpon ♒ and <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: If the <hi>Sunne</hi> be in ♈, then is the <hi>Signe</hi> of ♒ in the <hi>Meridian;</hi> If in ♎, then it is the <hi>Signe</hi> of ♌. But, when the <hi>Sunne</hi> com<g ref="char:EOLhyphen"/>meth to the <hi>Tropique</hi> of <hi>Cancer,</hi> the sha<g ref="char:EOLhyphen"/>dow will fall, at IX in the morning, vp<g ref="char:EOLhyphen"/>on the <hi>Signe</hi> of ♉; and that is the <hi>Signe</hi> which is then in the <hi>Meridian.</hi>
+               </p>
+               <p>In the two <hi>Polar Concaues</hi> on the South side of the Stone, there are <hi>lines</hi> noted with these words, <hi>Aequalis, Dupla, Tripla, Quadrupla, &amp;c.</hi>
+               </p>
+               <p>The vse of them is,</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:3722:28"/>
+               <head>To shew the Proportion of Sha<g ref="char:EOLhyphen"/>dowes to their Bodies.</head>
+               <p>AS, when the shadow of the top of the Style shall fall vpon the <hi>line</hi> no<g ref="char:EOLhyphen"/>ted with this word, <hi>Aequalis;</hi> then, is the shadow of a man, vpon a leuell ground, aequall to his height. When it falleth vpon the line noted with the word <hi>Dupla,</hi> then will his shadow be double vnto his height. And so, for the rest.</p>
+               <p>These Proportions being thus known, you may take the length of the Sha<g ref="char:EOLhyphen"/>dow, and so, finde the height of the body, when it cannot otherwise be so easily measured.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:3722:29"/>
+               <head>The Description and Ʋse of the Dials on the North side of the Stone.</head>
+               <p>THe Sunne shineth on the North side of the stone, onely in the Summer; and then, early in the morning, before it shineth on the South side; or, late in the euening, after it hath left shining on the South side of the stone: And there<g ref="char:EOLhyphen"/>fore I haue drawen heere such lines as may answere to them on the South side.</p>
+               <p>In the <hi>Ʋerticall Concaue</hi> on this North side, the <hi>Red lines</hi> shewe the <hi>Signes,</hi> and the <hi>Place</hi> of the <hi>Sunne:</hi> The <hi>Blue lines</hi> noted with <hi>Dupla, Tripla, Quadrupla, &amp;c.</hi> doe shew the Proportion of shadowes to their Bodies.</p>
+               <p>In the two side <hi>Inclining Dials,</hi> the <hi>Red lines,</hi> noted with 16, 15, 14, &amp;c. doe serue to shewe the <hi>length of the Day:</hi> and the <hi>Blue lines,</hi> the houres from <hi>Sunne rising</hi> and <hi>Sunne setting.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:3722:29"/>
+               <head>The Description and vse of the Dials on the East and West sides of the Stone.</head>
+               <p>THe <hi>Sunne</hi> shineth on the East side of the stone, onely in the morning; on the West side, onely in the afternoone; and not on both at once; and therefore I haue made them one answering the other.</p>
+               <p>Either side hath foure great Dials, of seuerall formes: A <hi>Meridian Plaine;</hi> a <hi>Meridian Concaue;</hi> a <hi>Meridian Cylinder Diall;</hi> and a <hi>Square hollow Diall</hi> of ma<g ref="char:EOLhyphen"/>ny sides.</p>
+               <p>Ouer the <hi>Meridian Plaine,</hi> on the one side, these verses are written, shewing the vse of the Lines according to their colours.</p>
+               <q>Horas antiquas, <hi>Viridis; Rubra linea,</hi> Signa <hi>Monstrat; Caeruleus,</hi> nautica puncta, <hi>color.</hi>
+               </q>
+               <p>On the other side, these verses, to the like effect:
+<q>
+                     <pb n="54" facs="tcp:3722:30"/>
+                     <hi>Caeruleo, dantur</hi> communes Azimuth; Horae Antiquae, <hi>Viridi;</hi> Signa, <hi>colore</hi> Rubro.</q>
+               </p>
+               <p>THe <hi>Red lines</hi> doe here represent the <hi>Signe</hi> and <hi>Place of the Sunne.</hi> For, the <hi>Sunne</hi> shining, the shadow of the edge of the top of the Style falling among the <hi>Blacke lines</hi> will shew the ordinarie houres: And the shadow of the lower point of that edge falling among the <hi>Red lines</hi> will there shew the <hi>Signe</hi> of the <hi>Place of the Sunne,</hi> according to the cha<g ref="char:EOLhyphen"/>racters ♈, ♉, ♊, ♋, &amp;c. noted in the <hi>El<g ref="char:EOLhyphen"/>lipsis.</hi>
+               </p>
+               <p>The <hi>Greene lines</hi> do shew the <hi>Old, Vn<g ref="char:EOLhyphen"/>aequall, Planetary houres,</hi> diuiding the <hi>Day</hi> into twelue equall parts; for, the <hi>Greene line</hi> which followeth next after the sha<g ref="char:EOLhyphen"/>dow, will giue the houre required.</p>
+               <p>The <hi>Blue lines,</hi> noted with E, E b S, E S E, &amp;c. doe shew the common <hi>Azi<g ref="char:EOLhyphen"/>muths,</hi> or (as Seamen call them) the <hi>Points of the Compasse,</hi> whereon the <hi>Sunne</hi> beareth from vs. For, if the point of the shadow doe fall vpon the line noted with E, then is the <hi>Sunne</hi> in the East: If
+<pb n="55" facs="tcp:3722:30"/> it fall on the line noted with E b S, then, the <hi>Sunne</hi> beareth from vs East and by South.</p>
+               <p>In the <hi>Square hollow Dialls</hi> of many sides, the <hi>Blacke lines</hi> doe shew the <hi>Or<g ref="char:EOLhyphen"/>dinary Houres,</hi> and the <hi>Redde lines</hi> repre<g ref="char:EOLhyphen"/>sent the <hi>Aequator,</hi> and his <hi>Parallels</hi> of <hi>de<g ref="char:EOLhyphen"/>clination.</hi> For, heere, if the <hi>Sunnes</hi> beame passing through the little hole in the side of the <hi>Square</hi> shall fall on any part of the <hi>Red line,</hi> 10 <hi>gr.</hi> aboue the <hi>Aequinoctiall line,</hi> then is the <hi>declination</hi> of the <hi>Sunne</hi> 10 <hi>gr.</hi> to the Southward: If on 20 <hi>gr.</hi> below the <hi>Aequinoctiall line,</hi> then is the <hi>Sunne</hi> 20 <hi>Degrees</hi> from the <hi>Aequator</hi> Northward.</p>
+               <p>In the <hi>Meridian Concaue,</hi> on the East side of the Stone, is written this verse,
+<q>Horae vulgares, <hi>at{que}</hi> ascendentia Signa.</q>
+               </p>
+               <p>In the <hi>Meridian Concaue,</hi> on the West side,
+<q>Horae vulgares, <hi>&amp;</hi> descendentia Signa.</q>
+               </p>
+               <p>The Lines heere drawne are of three
+<pb n="56" facs="tcp:3722:31"/> sortes: The <hi>Common houre lines</hi> are drawne in <hi>Blacke:</hi> The <hi>Aequator,</hi> and the <hi>Tropiques</hi> are drawne in <hi>Redde,</hi> as in the other <hi>Dials:</hi> The other lines no<g ref="char:EOLhyphen"/>ted with ♈, ♉, ♊, ♋, &amp;c. are the lines of the twelue Signes.</p>
+            </div>
+            <div type="part">
+               <head>To shew, which of the xij Signes is at the Horizon.</head>
+               <p>ALl the twelue <hi>Signes</hi> doe rise and and sette in xxiiij houres, but, vn<g ref="char:EOLhyphen"/>equally: Some are neere three houres in rising, others doe rise in lesse time then an houre.</p>
+               <p>Heere, it sufficeth onely to obserue the shadow of the toppe of the Style; For, it will fall vpon the <hi>Signe,</hi> which is rising, if the <hi>Sunne</hi> shine on the East side: or vpon the <hi>Signe</hi> which is then descending, if the <hi>Sunne</hi> doe shine on the West side of the Stone.</p>
+               <p>In the <hi>Meridian Cylinders</hi> are two <hi>Geographicall Tables:</hi> One, on the East
+<pb n="57" facs="tcp:3722:31"/> side of the Stone, of such places as are East from <hi>London:</hi> The other, on the West side, of such places as lie West from <hi>London.</hi> And these are described, according to their due <hi>Latitude</hi> and <hi>Lon<g ref="char:EOLhyphen"/>gitude,</hi> in such sort, that the same lines which shew the houre of the <hi>Day,</hi> doe also shew the difference of <hi>Longitude.</hi>
+               </p>
+               <p>The vse of them may bee,</p>
+               <div type="section">
+                  <head>
+                     <hi>1.</hi> To shew the time, when it is noone in any of those Countreys.</head>
+                  <p>SVch places as lie East from <hi>London</hi> haue noone before vs: Such as lie West from <hi>London</hi> haue noone after vs.</p>
+                  <p>But to finde the time more particu<g ref="char:EOLhyphen"/>larly, obserue the shadow of the Style which sheweth the houre of the Day; For, when that commeth to be ouer any place in the <hi>Chart,</hi> then is it <hi>Noone</hi> in that place.</p>
+                  <p>Thus, the shadow of the Style com<g ref="char:EOLhyphen"/>ming to the <hi>Meridian</hi> of <hi>Hierusalem,</hi> at the houre of IX in the morning, it
+<pb n="58" facs="tcp:3722:32"/> sheweth, that it is <hi>Noone</hi> at <hi>Hierusalem,</hi> when it is but nine of the Clocke with vs at <hi>London.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2.</hi> To shew the time of the Day a<g ref="char:EOLhyphen"/>greeing to any of those Coun<g ref="char:EOLhyphen"/>treys.</head>
+                  <p>FIrst, finde the <hi>Meridian</hi> of the <hi>Place</hi> proposed; then, see where the sha<g ref="char:EOLhyphen"/>dow falleth: So, the distance in houres, between the shadow and that <hi>Meridian,</hi> shall giue the <hi>time of the Day</hi> required.</p>
+                  <p>As if, it being <hi>Noone</hi> at <hi>Rome</hi> and <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> it were required to finde <hi>the houre of the Day</hi> at <hi>Hierusalem.</hi>
+                  </p>
+                  <p>It appeareth, by the former Proposi<g ref="char:EOLhyphen"/>tion, that it is <hi>Noone</hi> at <hi>Rome</hi> and <hi>Venice,</hi> at such time as it is about eleuen of the Clocke at <hi>London,</hi> and, that there is two houres difference between the <hi>Meridian</hi> of <hi>Rome</hi> and the <hi>Meridian</hi> of <hi>Hierusalem;</hi> and therefore, at <hi>Hierusalem</hi> it is two of the Clocke after noone at the time pro<g ref="char:EOLhyphen"/>posed.</p>
+                  <pb n="59" facs="tcp:3722:32"/>
+                  <p>And what is here said of the Day, the same may be vnderstood of the time of the Night. It appeareth, by the former Proposition, that it is <hi>noone</hi> at <hi>Virginia,</hi> at such time, as it is V of the Clocke af<g ref="char:EOLhyphen"/>ter noone with vs at <hi>London;</hi> and there<g ref="char:EOLhyphen"/>fore, fiue houres difference, betweene the <hi>Meridians</hi> of <hi>Virginia</hi> and <hi>London;</hi> so that, I suppose, if they at <hi>Virginia,</hi> and wee at <hi>London,</hi> could see one and the same thing, at the same instant of time (as sometimes, wee may, either the be<g ref="char:EOLhyphen"/>ginning or the end of an Eclipse of the <hi>Moone</hi>) if wee see it at midnight, they should see it at VII of their Clocke in the Euening; Or, if they see it at VIII in the Euening, wee shall see it at One in the Morning.</p>
+                  <p>These, and such like, are the vses of these <hi>Dials:</hi> if too obscurely deliuered, your <hi>Maiestie</hi> may command the Author.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
